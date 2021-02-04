@@ -1,5 +1,4 @@
 # Hi there, I am Onur Gürsoy
-----------------------------
 ## Front-end Developer student at KYH Stockholm
 
 
