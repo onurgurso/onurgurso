@@ -5,13 +5,13 @@
 
 ### Languages and tools
 
--JAVASCRIPT
--React.JS
--HTML5
--CSS3
--Node.js
--Git
--Figma
+- JAVASCRIPT
+- React.JS
+- HTML5
+- CSS3
+- Node.js
+- Git
+- Figma
 
 ### What I do for fun
  -Coding / *seems unlikely but it's true.*
