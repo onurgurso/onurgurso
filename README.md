@@ -14,9 +14,9 @@
 - Figma
 
 ### What I do for fun
- -Coding / *seems unlikely but it's true.*
- -Family time
- -Gaming
+ - Coding / *seems unlikely but it's true.*
+ - Family time
+ - Gaming
  
 ### What is in the scope right now?
 - 🔭 I’m working on rebuilding my personal portfolio
