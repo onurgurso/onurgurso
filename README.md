@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there, I am Onur Gürsoy
+----------------------------
+## Front-end Developer student at KYH Stockholm
 
-<!--
-**OGurso/OGurso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Languages and tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-JAVASCRIPT
+-React.JS
+-HTML5
+-CSS3
+-Node.js
+-Git
+-Figma
+
+### What I do for fun
+ -Coding / *seems unlikely but it's true.*
+ -Family time
+ -Gaming
+ 
+### What is in the scope right now?
+- 🔭 I’m working on rebuilding my personal portfolio
+- 🌱 I’m currently learning React.js
+- 💬 Ask me about what i do for you.
+
+
+#### You can reach me at:
+
+📫 onur.gurso@gmail.com
