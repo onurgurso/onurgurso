@@ -25,4 +25,4 @@
 
 #### You can reach me at:
 
-📫 onur.gurso@gmail.com
+📫 onur.gursoy@student.kyh.se
