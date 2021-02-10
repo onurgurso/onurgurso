@@ -20,7 +20,7 @@
 ### What is in the scope right now?
 - 🔭 I’m working on rebuilding my personal portfolio
 - 🌱 I’m currently learning React.js
-- 💬 Ask me about what i do for you.
+- 💬 Ask me about what i can do for you.
 
 
 #### You can reach me at:
