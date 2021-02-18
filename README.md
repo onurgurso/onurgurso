@@ -8,6 +8,7 @@
 - React.JS
 - HTML5
 - CSS3
+- Firebase
 - Git
 - Figma
 
