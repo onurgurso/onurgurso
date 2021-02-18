@@ -8,7 +8,6 @@
 - React.JS
 - HTML5
 - CSS3
-- Node.js
 - Git
 - Figma
 
