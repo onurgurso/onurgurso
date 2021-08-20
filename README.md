@@ -13,7 +13,7 @@
 - Figma
 
 ### What I do for fun
- - Coding / *seems unlikely but it's true.*
+ - Coding
  - Family time
  - Gaming
  
